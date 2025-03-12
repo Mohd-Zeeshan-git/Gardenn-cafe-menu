@@ -10,7 +10,7 @@
     body {
       font-family: Arial, sans-serif;
       background-image: url(img/bg3.png) ;
-      backdrop-filter: blur(3px);
+      backdrop-filter: blur(1px);
       z-index: -1;
       background-size: contain;
       /* White text */
