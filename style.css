@@ -9,8 +9,8 @@
     ---------------------- */
     body {
       font-family: Arial, sans-serif;
-      background-image: url(img/bg1.png) ;
-      backdrop-filter: blur(4px);
+      background-image: url(img/bg3.png) ;
+      backdrop-filter: blur(3px);
       z-index: -1;
       background-size: contain;
       /* White text */
