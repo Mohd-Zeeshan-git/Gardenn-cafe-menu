@@ -257,7 +257,7 @@
         text-align: center;
       }
       .menu-items li {
-/*         flex-direction: column; */
+        flex-direction: column; 
         align-items: center;
       }
       .menu-items li .price {
