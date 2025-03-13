@@ -1,5 +1,5 @@
    * {
-      margin: 0;
+/*       margin: 0; */
       padding: 0;
       box-sizing: border-box;
     }
@@ -79,7 +79,7 @@
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      margin-bottom: 40px;
+      margin-bottom: 20px;
       color:white;
       /* opacity: 0;
       transform: translateY(20px); */
@@ -249,7 +249,7 @@
 
     @media (max-width: 600px) {
       .menu-section {
-        flex-direction: column; 
+/*         flex-direction: column;  */
       }
       .food-img, .menu-items {
         margin: 0 auto;
