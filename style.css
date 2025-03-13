@@ -249,11 +249,11 @@
 
     @media (max-width: 600px) {
       .menu-section {
-/*         flex-direction: column;  */
+        flex-direction: column;  
       }
       .food-img, .menu-items {
         margin: 0 auto;
-        margin-bottom: 20px;
+        margin-bottom: 40px;
         text-align: center;
       }
       .menu-items li {
@@ -272,9 +272,9 @@
         margin-left: 4rem;
       }
     
-/*       .food-img{
+       .food-img{
         height: 200px;
-      } */
+      } 
       .fried{
         height: 900px;
       }
