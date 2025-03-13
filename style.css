@@ -282,6 +282,12 @@ footer img {
         margin-left: 2.7rem;
       }
     }
+@media (max-width:479px){
+      footer div{
+        display:block;
+
+      }
+    }
 /*        .food-img{
         height: 200px;
       } 
