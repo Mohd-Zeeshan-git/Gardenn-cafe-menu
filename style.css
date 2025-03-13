@@ -249,7 +249,7 @@
 
     @media (max-width: 600px) {
       .menu-section {
-        flex-direction: column;
+/*         flex-direction: column; */
       }
       .food-img, .menu-items {
         margin: 0 auto;
