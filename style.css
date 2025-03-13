@@ -249,7 +249,7 @@
 
     @media (max-width: 600px) {
       .menu-section {
-        flex-direction: column;  
+/*         flex-direction: column;   */
       }
       .food-img, .menu-items {
         margin: 0 auto;
@@ -257,7 +257,7 @@
         text-align: center;
       }
       .menu-items li {
-        flex-direction: column;
+/*         flex-direction: column; */
         align-items: center;
       }
       .menu-items li .price {
