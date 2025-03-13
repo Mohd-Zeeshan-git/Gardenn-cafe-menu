@@ -9,10 +9,11 @@
     ---------------------- */
     body {
       font-family: Arial, sans-serif;
-      background-image: url(img/bg3.png) ;
-      backdrop-filter: blur(3px);
+      background-image: url(img/BG.png) ;
+/*       backdrop-filter: blur(0px); */
       z-index: -1;
       background-size: contain;
+      background-position:center;
       /* White text */
       margin: 0;
       padding-bottom: 100px; 
