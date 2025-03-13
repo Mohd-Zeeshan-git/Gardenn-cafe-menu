@@ -181,15 +181,17 @@
       font-size: 0.9rem;
       color: #ccc;
       line-height: 1.5;
+      margin-left:10px;
     }
     footer div{
     display:flex;
-     font-size: 0.9rem;
+     font-size: 0.6rem;
       justify-content: center;
       align-items: center;
     }
 footer img {
   padding-right:10px;
+  
 }
     footer p{
     padding-left: 10px;
