@@ -271,4 +271,13 @@
       header h1{
         margin-left: 4rem;
       }
+      main {
+        height: 700px;
+      }
+      .food-img{
+        height: 200px;
+      }
+      .fried{
+        height: 400px;
+      }
     }
