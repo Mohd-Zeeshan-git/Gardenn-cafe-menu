@@ -182,6 +182,15 @@
       color: #ccc;
       line-height: 1.5;
     }
+    footer div{
+    display:flex;
+     font-size: 0.9rem;
+      justify-content: center;
+      align-items: center;
+    }
+footer img {
+  padding-right:10px;
+}
     footer p{
     padding-left: 10px;
     }
