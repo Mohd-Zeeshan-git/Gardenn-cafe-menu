@@ -181,7 +181,8 @@
       font-size: 0.9rem;
       color: #ccc;
       line-height: 1.5;
-      margin-left:10px;
+      padding-left:10px;
+      padding-right:10px
     }
     footer div{
     display:flex;
