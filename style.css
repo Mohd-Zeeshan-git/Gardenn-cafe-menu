@@ -170,7 +170,7 @@
     footer {
       background-color: #111;
       display:flex;
-      padding: 15px 10px;
+/*       padding: 15px 10px; */
       justify-content: center;
       align-items: center;
       position:fixed;
@@ -180,9 +180,9 @@
       box-shadow: 0 -2px 5px rgba(255, 255, 255, 0.1);
       font-size: 0.9rem;
       color: #ccc;
-      line-height: 1.5;
+      line-height: 2;
       padding-left:10px;
-      padding-right:10px
+      padding-right:15px
     }
     footer div{
     display:flex;
