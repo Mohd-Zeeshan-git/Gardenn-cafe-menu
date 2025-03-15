@@ -38,6 +38,7 @@
       background-color: #111;
       box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
       display:flex;
+      align-items:
      
       
       
@@ -54,6 +55,8 @@
     }
 
     header h1 {
+      flex-grow:1;
+      text-align:center;
       font-size: 2rem;
       color: #f1c40f; /* accent color */
       margin-bottom: 5px;
