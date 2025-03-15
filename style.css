@@ -264,7 +264,8 @@ footer img {
       .menu-section {
 /*         flex-direction: column;   */
       }
-      .food-img, .menu-items {
+/*       .food-img, */
+      .menu-items {
         margin: 0 auto;
         margin-bottom: 40px;
         text-align: center;
